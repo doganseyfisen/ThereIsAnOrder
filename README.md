@@ -45,10 +45,6 @@ Welcome to **There Is An Order** repository! This project aims to provide a simp
 - Once the application is running, open your web browser and go to `http://127.0.0.1:8000/`.
 - You can start managing orders through the user-friendly interface.
 
-## Contributing
-
-If you'd like to contribute to the project, please read the `CONTRIBUTING.md` file.
-
 ## License
 
 This project is distributed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
