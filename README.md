@@ -1,6 +1,4 @@
-# ThereIsAnOrder
-
-Meta APIs courses' final assessment: LittleLemon. 
+# ThereIsAnOrder 
 
 Welcome to **There Is An Order** repository! This project aims to provide a simple order management and tracking system web application. It includes basic functionalities such as creating, updating, viewing, and deleting orders.
 
