@@ -19,7 +19,7 @@ Welcome to **There Is An Order** repository! This project aims to provide a simp
 2. Create a virtual environment (optional but recommended):
    ```
    python -m venv venv
-   source venv/bin/activate  # For Windows: venv\Scripts\activate
+   venv\Scripts\activate
    ```
 
 3. Install required dependencies:
