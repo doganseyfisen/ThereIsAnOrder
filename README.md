@@ -27,10 +27,9 @@ Welcome to **There Is An Order** repository! This project aims to provide a simp
    pip install -r requirements.txt
    ```
 
-4. Set up the database and load sample data:
+4. Set up the database:
    ```
    python manage.py migrate
-   python manage.py loaddata sample_data.json
    ```
 
 5. Start the application:
